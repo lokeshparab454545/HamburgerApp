@@ -73,7 +73,7 @@ class _HeaderState extends State<Header> {
                             ),
                             const Spacer(),
                             const Text(
-                              "154 \$ CAN",
+                              "Rs: 700",
                               style: TextStyle(
                                 color: Colors.white,
                                 fontWeight: FontWeight.bold,
